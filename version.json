@@ -1,9 +1,9 @@
 ﻿{
-    "build":  21002,
-    "version":  "2.1.0 RC2",
+    "build":  21003,
+    "version":  "2.1.0 RC2 TEST1",
     "packageUrl":  "WELCOME_Update.zip",
-    "sha256":  "3986CB9B271BF2C704A9643891144926C671531EE64CEB96AC8ACA605B989C6D",
+    "sha256":  "5681AEA22EBC036FAEC6B6EB97D51BB727173C17085C070713CA067254CBABDD",
     "notes":  [
-                  "WELCOME 2.1.0 RC2"
+                  "Тест автообновления RC2 -\u003e RC2 TEST1"
               ]
 }
