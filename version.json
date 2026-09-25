@@ -1,9 +1,9 @@
 ﻿{
-    "build":  21003,
-    "version":  "2.1.0 RC2 TEST1",
+    "build":  21005,
+    "version":  "2.1.0 RC3.1",
     "packageUrl":  "WELCOME_Update.zip",
-    "sha256":  "5681AEA22EBC036FAEC6B6EB97D51BB727173C17085C070713CA067254CBABDD",
+    "sha256":  "938DF166E3288259999B98F923200FF9A415F5334097F9F080A900DBC3651B95",
     "notes":  [
-                  "Тест автообновления RC2 -\u003e RC2 TEST1"
+                  "WELCOME 2.1.0 RC3.1 — настройка шрифта клиента"
               ]
 }
