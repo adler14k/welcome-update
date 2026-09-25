@@ -1,9 +1,13 @@
 ﻿{
-    "build":  21005,
-    "version":  "2.1.0 RC3.1",
-    "packageUrl":  "WELCOME_Update.zip",
-    "sha256":  "938DF166E3288259999B98F923200FF9A415F5334097F9F080A900DBC3651B95",
+    "build":  21006,
+    "version":  "2.1.0 RC3.2",
+    "packageUrl":  "WELCOME_Update_x64.zip",
+    "sha256":  "278B83D0307571D3579B3EB36A873D85D48837E77C1090A3AAF49D6C71F00906",
+    "packageUrlX64":  "WELCOME_Update_x64.zip",
+    "sha256X64":  "278B83D0307571D3579B3EB36A873D85D48837E77C1090A3AAF49D6C71F00906",
+    "packageUrlX86":  "WELCOME_Update_x86.zip",
+    "sha256X86":  "6ABC2AC32D95469DC136636DFA8DD20F9F1C1D72284D5C64C59673096CF163DC",
     "notes":  [
-                  "WELCOME 2.1.0 RC3.1 — настройка шрифта клиента"
+                  "WELCOME 2.1.0 RC3.2"
               ]
 }
